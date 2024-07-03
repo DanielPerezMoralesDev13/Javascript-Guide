@@ -1,6 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
 
 # ***Variables en JavaScript***
 
@@ -80,7 +80,7 @@ const RADIUS // Error: Missing initializer in const declaration.
   ```javascript
   let camelCase = 1
   let camelCaseIsCool = 2
-  let userName = 'midudev'
+  let userName = 'DanielDev'
   ```
 
 - **snake_case:** *Todas las palabras en minúscula y separadas por guiones bajos.*
@@ -88,7 +88,7 @@ const RADIUS // Error: Missing initializer in const declaration.
   ```javascript
   let snake_case = 1
   let snake_case_is_cool = 2
-  let user_name = 'midudev'
+  let user_name = 'DanielDev'
   ```
 
 - **SCREAMING_CASE:** *Todas las palabras en mayúsculas y separadas por guiones bajos, comúnmente usado para constantes.*
@@ -96,7 +96,7 @@ const RADIUS // Error: Missing initializer in const declaration.
   ```javascript
   const SCREAMING_CASE = 1
   const SCREAMING_CASE_IS_COOL = 2
-  const USER_NAME = 'midudev'
+  const USER_NAME = 'DanielDev'
   ```
 
 *Recuerda que JavaScript distingue entre mayúsculas y minúsculas en los nombres de las variables.*
